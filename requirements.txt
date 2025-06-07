@@ -1,1 +1,13 @@
-pandas
+panpandas
+numpy
+google-play-scraper
+transformers
+torch
+scikit-learn
+nltk
+spacy
+sqlalchemy
+cx_Oracle
+matplotlib
+seaborn
+das
