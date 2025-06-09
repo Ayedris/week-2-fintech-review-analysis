@@ -4,7 +4,7 @@ import oracledb
 
 connection = oracledb.connect(
    user="System", 
-   password="O@mebank66127", 
+   password="Omebank66127", 
     dsn="127.0.0.1:1521/freepdb1"
 )
 print("Connected successfully!")
